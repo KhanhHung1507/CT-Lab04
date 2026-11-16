@@ -1,0 +1,130 @@
+[
+  {
+    "id": "G01",
+    "title": "Hoan Kiem Lake & Ngoc Son Temple",
+    "category": "nature",
+    "tags": ["lake", "temple", "walking-street", "sightseeing"],
+    "text": "Hoan Kiem Lake (Lake of the Restored Sword) is the historical and cultural heart of Hanoi. At the center sits Turtle Tower, and on Jade Island stands Ngoc Son Temple, reached via the iconic scarlet The Huc Bridge. The lake perimeter is free and open 24/7, converting into a vibrant pedestrian walking street on weekends from Friday 7:00 PM to Sunday midnight. Ngoc Son Temple opens daily from 7:00 AM to 6:00 PM with an entrance fee of 30,000 VND per adult and 15,000 VND for students.",
+    "source": "Hanoi Department of Tourism"
+  },
+  {
+    "id": "G02",
+    "title": "Imperial Citadel of Thang Long",
+    "category": "historical",
+    "tags": ["unesco", "heritage", "citadel", "history"],
+    "text": "The Imperial Citadel of Thang Long is a UNESCO World Heritage site located at 19C Hoang Dieu Street, Ba Dinh district. Built in the 11th century during the Ly Dynasty, it served as the center of regional political power for 13 consecutive centuries. Key highlights include the Doan Mon gate, Kinh Thien Palace foundations, and the underground D67 revolutionary war bunker. Open Tuesday through Sunday from 8:00 AM to 5:00 PM (closed Mondays). Adult tickets cost 30,000 VND; student tickets are 15,000 VND.",
+    "source": "Thang Long - Hanoi Heritage Conservation Centre"
+  },
+  {
+    "id": "G03",
+    "title": "President Ho Chi Minh Mausoleum",
+    "category": "historical",
+    "tags": ["mausoleum", "memorial", "history", "monument"],
+    "text": "Located at Ba Dinh Square, the Ho Chi Minh Mausoleum is the final resting place of President Ho Chi Minh. Visiting hours are Tuesday, Wednesday, Thursday, Saturday, and Sunday from 7:30 AM to 10:30 AM in summer and 8:00 AM to 11:00 AM in winter (closed Mondays and Fridays, as well as during annual maintenance from October to November). Entry is free for Vietnamese citizens, and 25,000 VND for international tourists. Visitors must dress respectfully (no shorts, tank tops, or mini skirts) and turn off cameras and phones inside.",
+    "source": "Ho Chi Minh Mausoleum Management Board"
+  },
+  {
+    "id": "G04",
+    "title": "Temple of Literature (Van Mieu - Quoc Tu Giam)",
+    "category": "culture",
+    "tags": ["temple", "university", "history", "education"],
+    "text": "Founded in 1070 and home to Vietnam's first national university established in 1076, the Temple of Literature is dedicated to Confucius and Vietnamese scholars. The complex features five courtyards, the Khue Van Cac pavilion, the Well of Heavenly Clarity, and 82 stone doctor turtle steles recognized by UNESCO. Located at 58 Quoc Tu Giam Street, Dong Da district. Open daily from 8:00 AM to 5:00 PM. Admission ticket costs 30,000 VND per adult and 15,000 VND for students.",
+    "source": "Center for Scientific and Cultural Activities of Van Mieu - Quoc Tu Giam"
+  },
+  {
+    "id": "G05",
+    "title": "Hanoi Old Quarter (36 Old Streets)",
+    "category": "culture",
+    "tags": ["old-quarter", "shopping", "street-food", "heritage"],
+    "text": "The Old Quarter is a historic commercial district dating back over a thousand years, situated north and west of Hoan Kiem Lake. Originally consisting of 36 artisan guilds named after goods traded (such as Hang Bac for silver, Hang Gai for silk, and Hang Ma for paper lanterns), it is celebrated for tubular shophouse architecture, bustling street markets, and famous street-food alleys. The area is freely accessible 24/7; motorized traffic can be congested, so walking or cyclo is recommended.",
+    "source": "Hoan Kiem District People's Committee"
+  },
+  {
+    "id": "G06",
+    "title": "St. Joseph's Cathedral (Nha Tho Lon)",
+    "category": "architecture",
+    "tags": ["cathedral", "church", "gothic", "photography"],
+    "text": "St. Joseph's Cathedral at 40 Nha Chung Street was inaugurated on Christmas Day in 1886. Designed in Neo-Gothic architectural style resembling Notre-Dame de Paris, it features twin bell towers rising 31.5 meters, stained glass windows, and pointed arches. The cathedral square is a beloved gathering spot for lemon tea (tra chanh) and photography. Outside viewing is free at all hours. Mass is held daily at 5:30 AM and 6:15 PM, with additional Sunday services throughout the day.",
+    "source": "Archdiocese of Hanoi"
+  },
+  {
+    "id": "G07",
+    "title": "Tran Quoc Pagoda & West Lake (Ho Tay)",
+    "category": "culture",
+    "tags": ["pagoda", "lake", "sunset", "buddhism"],
+    "text": "Tran Quoc Pagoda is the oldest Buddhist temple in Hanoi, with a history spanning over 1,500 years. Located on a small islet on the eastern shore of West Lake along Thanh Nien Road, the temple features an eleven-story red stupa (Bao Thap) and a sacred Bodhi tree grown from a cutting of the original tree in India. Open daily from 8:00 AM to 4:00 PM. Admission is free. Modest attire covering shoulders and knees is strictly required for entry.",
+    "source": "Tay Ho District Cultural Information"
+  },
+  {
+    "id": "G08",
+    "title": "Vietnam Museum of Ethnology",
+    "category": "museum",
+    "tags": ["museum", "culture", "ethnic-minorities", "exhibition"],
+    "text": "Located on Nguyen Van Huyen Road, Cau Giay district, this museum documents the cultural heritage of Vietnam's 54 recognized ethnic groups. It houses over 15,000 artifacts across indoor exhibits and an expansive open-air architectural park showcasing full-scale traditional houses, including Gia Rai tomb houses, Ede longhouses, and Dao earthen dwellings. Open Tuesday to Sunday from 8:30 AM to 5:30 PM (closed Mondays). Entrance ticket is 40,000 VND for adults and 15,000 VND for students.",
+    "source": "Vietnam Museum of Ethnology"
+  },
+  {
+    "id": "G09",
+    "title": "Hoa Lo Prison Relic (Maison Centrale)",
+    "category": "historical",
+    "tags": ["prison", "history", "relic", "war"],
+    "text": "Built by French colonial authorities in 1896 to incarcerate Vietnamese revolutionaries, Hoa Lo Prison was later used during the Vietnam War to hold American pilots, earning the moniker 'Hanoi Hilton'. Located at 1 Hoa Lo Street, Hoan Kiem district, the museum preserves original guillotine execution rooms, dungeon punishment cells (Cachot), and escape tunnels. Open daily from 8:00 AM to 5:00 PM. Ticket price is 30,000 VND per adult and 15,000 VND for students. Multilingual audio guides cost 50,000 VND.",
+    "source": "Hoa Lo Prison Memorial Management"
+  },
+  {
+    "id": "G10",
+    "title": "Long Bien Bridge (Cau Long Bien)",
+    "category": "bridge",
+    "tags": ["bridge", "history", "photography", "eiffel"],
+    "text": "Constructed between 1899 and 1902 by French engineering firm Daydé & Pillé, Long Bien Bridge was the first steel cantilever bridge crossing the Red River. Stretching 2,290 meters, it played a pivotal transportation role during the anti-colonial struggle and the Vietnam War. Today, single-track trains, motorbikes, and pedestrians continue to use it. Accessible freely 24/7, sunrise and late afternoon offer spectacular views over the Red River banana island farms and river barges.",
+    "source": "Vietnam Railway Corporation"
+  },
+  {
+    "id": "G11",
+    "title": "Dong Xuan Market",
+    "category": "market",
+    "tags": ["market", "shopping", "wholesale", "street-food"],
+    "text": "Established in 1889, Dong Xuan Market is the largest three-story wholesale and retail covered market in northern Vietnam, located at the northern edge of the Old Quarter. The ground floor specializes in seafood, fresh produce, and local packaged foods; the second and third floors sell clothing, textiles, and souvenirs. Open daily from 6:00 AM to 6:00 PM, with adjacent outdoor weekend night markets operating until 11:00 PM. Bargaining is standard practice.",
+    "source": "Dong Xuan Market Management Company"
+  },
+  {
+    "id": "G12",
+    "title": "Thang Long Water Puppet Theatre",
+    "category": "entertainment",
+    "tags": ["theatre", "puppet-show", "tradition", "performance"],
+    "text": "Situated at 57B Dinh Tien Hoang Street directly facing Hoan Kiem Lake, this theatre preserves the unique northern Vietnamese traditional art of water puppetry dating from the 11th century. Wooden puppets perform on a waist-deep pool stage accompanied by live cheo folk music and singing. Shows run daily with up to 5 performances each evening (typically 4:10 PM, 5:20 PM, 6:30 PM, 8:00 PM, and 9:15 PM), lasting 50 minutes. Ticket prices range from 100,000 VND to 200,000 VND depending on seating tier.",
+    "source": "Thang Long Theatre Guide"
+  },
+  {
+    "id": "G13",
+    "title": "Vietnam Military History Museum",
+    "category": "museum",
+    "tags": ["museum", "military", "history", "tanks-aircraft"],
+    "text": "The Vietnam Military History Museum is located along Thang Long Boulevard in Nam Tu Liem district. The museum houses more than 150,000 historical artifacts, weapons, fighter aircraft (MiG-21), Soviet tanks (T-54 tank number 843), and artillery from both the anti-French and anti-American wars. The outdoor display and four-floor indoor hall display state-of-the-art interactive holographic and 3D projection exhibits. Open Tuesday to Sunday from 8:00 AM to 4:30 PM (closed Mondays and Fridays). Free admission during introductory periods, then 40,000 VND.",
+    "source": "Ministry of National Defense Portal"
+  },
+  {
+    "id": "G14",
+    "title": "Bat Trang Pottery Village",
+    "category": "culture",
+    "tags": ["craft-village", "ceramics", "pottery-making", "souvenirs"],
+    "text": "Bat Trang is a 700-year-old traditional craft village located on the Red River bank in Gia Lam district, approximately 13 km southeast of central Hanoi. The village produces high-fire porcelain and glazed ceramic tableware, vases, and temple altar decor. Visitors can tour working kilns, explore the modern Bat Trang Ceramic Museum, and participate in hands-on pottery turning and painting workshops for 30,000 to 50,000 VND per piece. Open daily from 8:00 AM to 5:30 PM; entrance to the village is free.",
+    "source": "Bat Trang Craft Village Guild"
+  },
+  {
+    "id": "G15",
+    "title": "Pho Thin Lo Duc (Traditional Beef Noodle)",
+    "category": "cuisine",
+    "tags": ["food", "pho", "beef-noodle", "restaurant"],
+    "text": "Founded in 1979 by Nguyen Trong Thin, Pho Thin at 13 Lo Duc Street in Hai Ba Trung district is world-renowned for its distinctive stir-fried beef pho (pho bo tai lan). Thin slices of beef are flash-fried over high flame with fresh ginger and garlic before being heaped over rice noodles with generous mountains of chopped scallions and ladled with rich, cloudy bone broth. Open daily from 6:00 AM to 9:00 PM. A standard bowl costs approximately 70,000 to 90,000 VND.",
+    "source": "Hanoi Culinary Heritage Guide"
+  },
+  {
+    "id": "G16",
+    "title": "Cha Ca La Vong (Pan-Fried Fish Specialty)",
+    "category": "cuisine",
+    "tags": ["food", "fish-cake", "specialty", "restaurant"],
+    "text": "Originating in 1871 by the Doan family, Cha Ca La Vong at 14 Cha Ca Street in the Old Quarter is Hanoi's most iconic culinary institution. Chunks of hemibagrus river fish (ca lang) marinated in turmeric and galangal are sizzled tableside in a small skillet with heaps of fresh dill and spring onions. The fragrant fish is eaten with rice noodles, roasted peanuts, coriander, and fermented shrimp paste (mam tom) seasoned with kumquat and chili. Open daily from 11:00 AM to 2:00 PM and 5:00 PM to 9:00 PM. Set menu costs approximately 175,000 VND per person.",
+    "source": "Old Quarter Food Registry"
+  }
+]
